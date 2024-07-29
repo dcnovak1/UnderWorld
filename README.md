@@ -5,5 +5,4 @@ Currently I have set up a simple procedually generated cave system. I am current
 To view code, go to Assets>World>Scripts>Terrain
 https://github.com/dcnovak1/UnderWorld/tree/main/Assets/World/Scripts/Terrain
 
-Cave Image
-https://github.com/dcnovak1/UnderWorld/blob/main/Cave.png
+![Cave](Cave.png)
