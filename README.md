@@ -4,4 +4,5 @@ Currently I have set up a simple procedually generated cave system. I am current
 
 To view code, go to Assets>World>Scripts>Terrain
 
-![Cave]([relative%20path/to/img.png](https://github.com/dcnovak1/UnderWorld/blob/main/Cave.png)?raw=true "Cave.png")
+![Cave]([relative%20path/to/img.png](https://github.com/dcnovak1/UnderWorld/blob/main/Cave.png) "Cave.png")
+https://github.com/dcnovak1/UnderWorld/blob/main/Cave.png
